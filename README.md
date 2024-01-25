@@ -5,10 +5,11 @@
 - 📫 How to reach me ...
 - 🔥 500  simple projects ..
 
-<a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt ="" style="background-color;yellow "> 205 project</a>
+<a href ="https://curiousjr.com/profile/jpryqa" target ="_blank" alt =""> 205 project</a>
 
 <br>
   <a href ="https://codepen.io/Awareness-" target ="_blank " alt ="">300 projects</a>
+  
   <br>
   <a  href="https://replit.com/@jpryqa" target ="_blank " alt ="">documents and 150projects </a>
 
